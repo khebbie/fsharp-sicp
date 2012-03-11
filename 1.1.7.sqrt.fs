@@ -1,4 +1,3 @@
-<Query Kind="FSharpProgram" />
 
 let square a = a * a
 
